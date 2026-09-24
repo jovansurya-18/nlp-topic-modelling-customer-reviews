@@ -254,7 +254,7 @@ Compared with BERTopic, LDA produced broader and less distinct topics, but the m
 
 ## Project Structure
 
-```text
+```
 nlp-topic-modelling-customer-reviews/
 │
 ├── README.md
